@@ -11,7 +11,7 @@ public class CalatoriA extends Vagon {
         return "CalatoriA";
     }
 
-    public void deschideUsi() {
+    public void deschidereUsi() {
         System.out.println("Usile sunt deschise");
     }
 
